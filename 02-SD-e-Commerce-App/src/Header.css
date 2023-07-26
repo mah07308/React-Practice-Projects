@@ -22,7 +22,7 @@
 .header__logoTitle {
   text-decoration: none;
   border: 0;
-  color: #fff;
+  color: white;
 }
 
 .header__search {
@@ -56,7 +56,7 @@
   flex-direction: column;
   margin-left: 10px;
   margin-right: 10px;
-  color: #fff;
+  color: white;
 }
 
 .nav__itemLineOne {
@@ -71,7 +71,7 @@
 .nav__itemBasket {
   display: flex;
   align-items: center;
-  color: #fff;
+  color: white;
   margin-right: 50px;
   margin-left: 10px;
 }
